@@ -1,0 +1,13 @@
+.navbar-main{
+    height: 80px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    gap:20px;
+    top:0;
+    left:0;
+    right:0;
+    background:rgb(231, 231, 231);
+    box-sizing: border-box;
+    padding: 0 30px;
+}

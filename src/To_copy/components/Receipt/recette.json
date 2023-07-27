@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "name": "Pasta Carbonara",
+    "imageUrl": "https://images.unsplash.com/photo-1608756687911-aa1599ab3bd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "ingredients": ["pasta", "eggs", "pancetta", "parmesan", "black pepper"],
+    "instructions": "Cook pasta, mix eggs and cheese, toss with cooked pasta and pancetta. Add black pepper for taste.",
+    "prepTime": "10 minutes",
+    "cookTime": "15 minutes"
+  },
+  {
+    "id": 1,
+    "name": "Chicken Curry",
+    "imageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=684&q=80",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "garlic",
+      "ginger",
+      "tomatoes",
+      "coconut milk",
+      "curry spices"
+    ],
+    "instructions": "Cook chicken, sauté onions, garlic, and ginger. Add tomatoes and coconut milk. Simmer and add curry spices.",
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes"
+  }
+]

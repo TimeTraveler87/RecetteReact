@@ -1,0 +1,22 @@
+.navbar-main {
+  height: 80px;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgb(212, 212, 212);
+  background: linear-gradient(
+    0deg,
+    rgba(212, 212, 212, 0.517266281512605) 34%,
+    rgba(190, 192, 189, 0.7525603991596639) 59%,
+    rgba(242, 234, 218, 0.9430365896358543) 100%
+  );
+  box-sizing: border-box;
+  padding: 0 30px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}

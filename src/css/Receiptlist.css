@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  width: 600px;
+
+  background: rgb(221, 224, 224);
+  background: linear-gradient(
+    0deg,
+    rgba(221, 224, 224, 0.7581626400560224) 36%,
+    rgba(190, 192, 189, 0.7525603991596639) 69%,
+    rgba(242, 234, 218, 0.9430365896358543) 89%
+  );
+  padding: 20px;
+}
