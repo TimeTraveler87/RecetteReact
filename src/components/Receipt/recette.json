@@ -7,7 +7,6 @@
     "ingredients": ["pasta", "eggs", "pancetta", "parmesan", "black pepper"],
     "recipe": "Cook pasta, mix eggs and cheese, toss with cooked pasta and pancetta. Add black pepper for taste.",
     "prepTime": 10,
-    "cookTime": "15 minutes",
     "difficulty":"Easy",
     "portions":5,
     "tags":["PLATS"]
@@ -27,7 +26,6 @@
     ],
     "recipe": "Cook chicken, sauté onions, garlic, and ginger. Add tomatoes and coconut milk. Simmer and add curry spices.",
     "prepTime": 15,
-    "cookTime": "30 minutes",
     "difficulty":"Medium",
     "portions":5,
     "tags":["PLATS"]

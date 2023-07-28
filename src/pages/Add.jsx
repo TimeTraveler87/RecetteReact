@@ -6,11 +6,8 @@ import ReceiptList from '../components/ReceiptList/ReceiptList';
 
 const Add = () => {
 
-	return (
-    <ReceiptProvider>
-      {/* <Detail/> */}      
+	return (   
       <AddForm/>
-    </ReceiptProvider>
 	);
 }
 
