@@ -1,13 +1,12 @@
 import * as React from "react";
-import data from "../Receipt/recette.json" 
-import { useEffect,useState } from "react";
-import ReceiptProvider, { useReceiptList } from '../../contexts/ReceiptContext'
+// import data from "../Receipt/recette.json" 
+import { useReceiptList } from '../../contexts/ReceiptContext'
 
 
 const Detail = ({id}) => {
   // const {id} = useParams();
-  const {Receipts} = useReceiptList()
-  const recipe = data.content.find(el=>el.id == id)
+  const {receipts} = useReceiptList()
+  const recipe = receipts.find(el=>el.id == id)
 
   return (
     <div>
